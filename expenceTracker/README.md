@@ -15,4 +15,4 @@ Dynamic Updates: The expense list updates dynamically without refreshing the pag
 
 ## Screenshots
 
-![App Screenshot]![alt text](<Screenshot 2024-12-20 225000.png>)
+![alt text](<Screenshot 2024-12-20 225000.png>)
