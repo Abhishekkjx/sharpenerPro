@@ -15,4 +15,4 @@ Dynamic Updates: The expense list updates dynamically without refreshing the pag
 
 ## Screenshots
 
-![App Screenshot](sharpenerProject\expenceTracker\Screenshot 2024-12-20 225000.png)
+![App Screenshot]expenceTracker/Screenshot 2024-12-20 225000.png
